@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=WhiteArt666&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" />
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/WhiteArt666?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="GitHub followers" />
 </a>
 
 </div>
