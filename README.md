@@ -381,35 +381,6 @@ current_focus:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=WhiteArt666&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"
-alt="GitHub statistics"
-/>
-
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=WhiteArt666&theme=tokyonight&hide_border=true&border_radius=12"
-alt="GitHub streak"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteArt666&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10"
-alt="Most used languages"
-/>
-
-</div>
-
-> GitHub language statistics only represent public repository code and do not fully reflect my complete technology experience.
 
 ---
 
